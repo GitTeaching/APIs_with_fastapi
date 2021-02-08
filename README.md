@@ -6,7 +6,7 @@ Python - Building APIs with FastAPI.
 
 Image classification API using ResNet. Based on : https://www.quantmetry.com/blog/tutoriel-deployer-api-machine-learning/
 
-<img src="https://github.com/GitTeaching/APIs_with_fastapi/blob/main/quantmetry_ResNet_api/architecture.png" width=600>
+<img src="https://github.com/GitTeaching/APIs_with_fastapi/blob/main/quantmetry_ResNet_api/architecture.png" width=600 />
 
 **2- devdotto_microservices :**
 
@@ -14,3 +14,5 @@ Movies and casts microservices in Python using FastAPI, Postgres and Docker comp
 
 Based on : https://dev.to/paurakhsharma/microservice-in-python-using-fastapi-24cc
 
+- /movie_service : 
+<img src="https://github.com/GitTeaching/APIs_with_fastapi/blob/main/devdotto_microservices/movie_service/api-endpoints.png" width=600 />
