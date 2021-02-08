@@ -14,7 +14,4 @@ Movies and casts microservices in Python using FastAPI, Postgres and Docker comp
 
 Based on : https://dev.to/paurakhsharma/microservice-in-python-using-fastapi-24cc
 
-- /python_microservices: 
-
-4 different microservices, movie_service, a database for movie_service, cast_service and a database for cast service. 
-Exposing movie_service to port 8001 and cast_service to port 8002. Run ```docker-compose up -d```
+- /python_microservices: 4 different microservices, movie_service, a database for movie_service, cast_service and a database for cast service.  Exposing movie_service to port 8001 and cast_service to port 8002. Run ```docker-compose up -d``` 
