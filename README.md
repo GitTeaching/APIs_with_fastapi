@@ -10,5 +10,7 @@ Image classification API using ResNet. Based on : https://www.quantmetry.com/blo
 
 **2- devdotto_microservices :**
 
-Movies/Casts microservices in Python using FastAPI, Postgres and Docker compose. Based on : https://dev.to/paurakhsharma/microservice-in-python-using-fastapi-24cc
+Movies and casts microservices in Python using FastAPI, Postgres and Docker compose. 
+
+Based on : https://dev.to/paurakhsharma/microservice-in-python-using-fastapi-24cc
 
