@@ -13,3 +13,8 @@ Image classification API using ResNet. Based on : https://www.quantmetry.com/blo
 Movies and casts microservices in Python using FastAPI, Postgres and Docker compose. 
 
 Based on : https://dev.to/paurakhsharma/microservice-in-python-using-fastapi-24cc
+
+- /python_microservices: 
+
+4 different microservices, movie_service, a database for movie_service, cast_service and a database for cast service. 
+Exposing movie_service to port 8001 and cast_service to port 8002. Run ```docker-compose up -d```
